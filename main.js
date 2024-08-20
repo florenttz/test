@@ -1,0 +1,1 @@
+var emri = "Florent"
